@@ -1,0 +1,9 @@
+C:\Users\Justin\Documents\Projects\Games\Non-Steam\D2\private\spotify\MaociFreak\Build\x86\v2_AutoHotkey.dll
+C:\Users\Justin\Documents\Projects\Games\Non-Steam\D2\private\spotify\MaociFreak\Build\Skype.exe.config
+C:\Users\Justin\Documents\Projects\Games\Non-Steam\D2\private\spotify\MaociFreak\Build\Skype.exe
+C:\Users\Justin\Documents\Projects\Games\Non-Steam\D2\private\spotify\MaociFreak\D2\obj\Release\Maoci.csprojAssemblyReference.cache
+C:\Users\Justin\Documents\Projects\Games\Non-Steam\D2\private\spotify\MaociFreak\D2\obj\Release\BunnyKompilar.Properties.Resources.resources
+C:\Users\Justin\Documents\Projects\Games\Non-Steam\D2\private\spotify\MaociFreak\D2\obj\Release\Maoci.csproj.GenerateResource.cache
+C:\Users\Justin\Documents\Projects\Games\Non-Steam\D2\private\spotify\MaociFreak\D2\obj\Release\Maoci.csproj.CoreCompileInputs.cache
+C:\Users\Justin\Documents\Projects\Games\Non-Steam\D2\private\spotify\MaociFreak\D2\obj\Release\Maoci.csproj.CopyComplete
+C:\Users\Justin\Documents\Projects\Games\Non-Steam\D2\private\spotify\MaociFreak\D2\obj\Release\Skype.exe

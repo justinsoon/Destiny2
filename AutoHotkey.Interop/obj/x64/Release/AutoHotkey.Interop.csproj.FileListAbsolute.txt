@@ -1,0 +1,5 @@
+C:\Users\Justin\Documents\Projects\Games\Non-Steam\D2\private\spotify\MaociFreak\Build\x86\v2_AutoHotkey.dll
+C:\Users\Justin\Documents\Projects\Games\Non-Steam\D2\private\spotify\MaociFreak\Build\SkypeIt.dll
+C:\Users\Justin\Documents\Projects\Games\Non-Steam\D2\private\spotify\MaociFreak\AutoHotkey.Interop\obj\x64\Release\AutoHotkey.Interop.csprojAssemblyReference.cache
+C:\Users\Justin\Documents\Projects\Games\Non-Steam\D2\private\spotify\MaociFreak\AutoHotkey.Interop\obj\x64\Release\AutoHotkey.Interop.csproj.CoreCompileInputs.cache
+C:\Users\Justin\Documents\Projects\Games\Non-Steam\D2\private\spotify\MaociFreak\AutoHotkey.Interop\obj\x64\Release\SkypeIt.dll
