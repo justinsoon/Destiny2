@@ -2,8 +2,8 @@
 AHK based + Obfuscated 
 Runs a code hidden from a string to prevent detection. 
 
-![tracing](https://i.imgur.com/QZ3LXQ7.gif)
+![tracing](/images/trace.gif)
 
-![sniping](https://i.imgur.com/24K0E9v.gif)
+![sniping](/images/sniping.gif)
 
-![velocity](https://i.imgur.com/fnGuKj4.gif)
+![velocity](/images/velocity.gif)
