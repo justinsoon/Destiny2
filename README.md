@@ -4,8 +4,10 @@ With expiration date on the use of program to promote HWID protection and preven
 
 ![Velocity](/images/velocity.gif)
 
+![Sniping](/images/sniping.gif)
+
 ![Tracing](/images/trace.gif)
 
-![Sniping](/images/sniping.gif)
+
 
 
