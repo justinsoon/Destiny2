@@ -1,9 +1,9 @@
 # Color Aimbot 
-AHK based + Obfuscated 
-Runs a code hidden from a string to prevent detection. 
+AHK based + Obfuscated to prevent detection
+With expiration date on the use of program to promote HWID protection and prevent leaks. (Promotes subscriptions/membership use of application)
 
-![tracing](/images/trace.gif)
+![Tracing](/images/trace.gif)
 
-![sniping](/images/sniping.gif)
+![Sniping](/images/sniping.gif)
 
-![velocity](/images/velocity.gif)
+![Velocity](/images/velocity.gif)
